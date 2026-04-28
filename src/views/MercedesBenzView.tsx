@@ -201,7 +201,6 @@ export default function MercedesBenzView() {
         </div>
       </section>
 
-      </section>
 
       {/* Dedicated Image Gallery */}
       <section className="py-24 px-6 md:px-12 bg-surface-container-lowest border-t border-outline-variant/10">
