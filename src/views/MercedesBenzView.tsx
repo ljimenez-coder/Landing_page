@@ -16,10 +16,10 @@ export default function MercedesBenzView() {
         </div>
         <div className="relative z-20 max-w-5xl">
           <div className="font-label text-tertiary uppercase tracking-[0.3em] text-xs md:text-sm mb-6">Caso de Estudio 06 / Affalterbach, Alemania</div>
-          <h1 className="font-headline text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tighter leading-[0.9] text-primary uppercase">
+          <h1 className="font-headline text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tighter leading-[0.9] text-primary uppercase animate-fade-in-up">
             MERCEDES-BENZ: ALAS DE GAVIOTA AL E PERFORMANCE
           </h1>
-          <div className="mt-12 flex flex-col md:flex-row md:items-start gap-6">
+          <div className="mt-12 flex flex-col md:flex-row md:items-start gap-6 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
             <div className="w-12 h-[1px] bg-secondary hidden md:block mt-3"></div>
             <div className="max-w-2xl">
               <p className="font-body text-outline text-base md:text-lg leading-relaxed mb-6">
